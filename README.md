@@ -74,4 +74,4 @@ airnova/
 
 ## Acknowledgements
 
-Developed as part of the Airnova initiative to improve automated medical assistance using IoT and embedded systems. Programmed by Keven.
+Developed as part of the Airnova initiative to improve automated medical assistance using IoT and embedded systems.
