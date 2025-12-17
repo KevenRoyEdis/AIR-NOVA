@@ -70,8 +70,8 @@ airnova/
 
 ## License
 
-This project is licensed under the MIT License.
+
 
 ## Acknowledgements
 
-Developed as part of the Airnova initiative to improve automated medical assistance using IoT and embedded systems. Programmed by Kenney.
+Developed as part of the Airnova initiative to improve automated medical assistance using IoT and embedded systems. Programmed by Keven.
